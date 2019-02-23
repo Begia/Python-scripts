@@ -1,2 +1,2 @@
 # Python-scripts
-utilities coded in python
+Bioinformatic and data science utilities coded in python
